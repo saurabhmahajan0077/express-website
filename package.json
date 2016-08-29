@@ -1,0 +1,25 @@
+{
+  "name": "express-website",
+  "version": "1.0.0",
+  "description": "A simple website using Express Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhmahajan0077/express-website.git"
+  },
+  "author": "Saurabh Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhmahajan0077/express-website/issues"
+  },
+  "homepage": "https://github.com/saurabhmahajan0077/express-website#readme",
+  "dependencies" : {
+    "body-parser" : "*",
+    "express" : "*",
+    "jade" : "*",
+    "nodemailer": "*"
+  }
+}
